@@ -1640,5 +1640,10 @@ main {
    }
 }
 .rc-url{
-    gap:1rem;
+        color: #FF9800;
+        margin-left:0.5rem;
+        margin-right:0.5rem;
+}
+.rc-url:hover{
+    color:#fff;
 }
